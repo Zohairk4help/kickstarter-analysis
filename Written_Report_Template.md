@@ -6,6 +6,9 @@
 ---
     Through filter and formulas, the percentage of funded campaign was determined, and it was seen that there were a lot of funded campaigns that were either canceled or failed even though The number of successful campaigns’ % funded was more. Since, Mrs Louise has 12000$ available for her next Play’s campaign, she wants to find out whether that would be a good decision or not. In order to do that, through filter and data analysis, it is concluded that her Great Britain’s Theatre/Plays campaigns showed the greatest number of successful outcomes. However, diving deeper into the analysis of the campaigns’ goal and pledged amounts, it was determined that there is the presence of ***outlier***!
 ---
+### -**Purpose:** 
+ In order to forecast the outcome of her next play *Fever*, we need to find the best and reasonable goal amount that is expected to be pledged at the right month of the year. 
+
 ### -**Brief of the Reports:** 
     Therefore, it was determined that the month-May has the most successful theatre plays; Dec-Month has the intercepting-point of the successful and failed number of percentage outcome of theatre plays. Canceled plays are almost constant through -out the year. Not only that, but it is also discovered that there are two reasonable goal amounts that Mrs.Louise should consider before going for next campaign, *Fever*! 
     ---
